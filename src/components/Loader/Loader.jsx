@@ -10,7 +10,7 @@ class Loader extends React.Component {
                 <Circles
                     height="80"
                     width="80"
-                    color="#4fa94d"
+                    color="#13245c"
                     ariaLabel="circles-loading"
                     wrapperStyle={{}}
                     wrapperClass=""
